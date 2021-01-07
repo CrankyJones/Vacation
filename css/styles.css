@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+}
+
+.jumbo{
+  text-align: center;
+  font-family: fantasy;
+}
+
+.cards{
+  text-align: center;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.list-item{
+  text-align: left;
+  font-family: cursive;
+
+body{
+  background-image: url("img/ShavedPunk.png");
+}
