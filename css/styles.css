@@ -1,3 +1,8 @@
+body{
+  background-image: url("../img/ShavedPunk.png");
+  background-size: 25%;
+}
+
 h1{
   text-align: center;
 }
@@ -15,7 +20,3 @@ h1{
 .list-item{
   text-align: left;
   font-family: cursive;
-
-body{
-  background-image: url("img/ShavedPunk.png");
-}
