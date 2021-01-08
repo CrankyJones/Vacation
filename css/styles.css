@@ -25,5 +25,9 @@ h1{
   
 }
 .card{
-  background-color: rgba(35, 147, 223, 0.884);"
+  background-color: rgba(240, 241, 158, 0.884);"
+}
+
+.card-trip{
+  background-color: rgba(158, 241, 169, 0.884);"
 }
